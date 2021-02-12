@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CBambooBackgroundBillboard" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAABAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>BambooBackgroundBillboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBillboardSuper" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BillboardSuper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCamera" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAIAACAAEAAAAAAABQAAAgAAAAAAQAAAAAA=</HashCode>
+      <FileName>Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCameraTracingUpdateEngine" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>CameraTracingUpdateEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObjectUpdateEngine" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAEAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObjectUpdateEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEffectObject" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>EffectObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSmallEnergyObject" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EffectObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBigEnergyObject" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EffectObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBombObject" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAMAQAIAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>EffectObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CExplodingObject" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>EffectObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObjectContainer" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAIAAgAAAAAAAABAQAAhAAAAAAAAAAAAAIAAEA=</HashCode>
+      <FileName>ObjectContainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGravityUpdateEngine" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAICAAABAAAAAAAAAA=</HashCode>
+      <FileName>GravityUpdateEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CKeyInputEngine" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAIJAAUAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>KeyInputEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObjectSuper" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAYAAAAAAQAAAAZAAAAAAAQAAgAAAiAAAAAACEAAAA=</HashCode>
+      <FileName>ObjectSuper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlainLandObject" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>PlainLandObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayerFSM" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAWAAABAAAAAAAAAQAIAAAAAgAQAQAAgCABAA=</HashCode>
+      <FileName>PlayerFSM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayerObject" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAACkAAAAQAAAAAAAAAgIAAQAAAIAAAAQA=</HashCode>
+      <FileName>PlayerObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPositionUpdateEngine" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PositionUpdateEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRenderer" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAQAAAAAAAAAABAAAAAAAABAAAGAAAAQ=</HashCode>
+      <FileName>Renderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUpdateEngineSuper" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UpdateEngineSuper.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ST_VIEWPORT" Collapsed="true">
+    <Position X="16.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAEAAAAgCAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="E_PLAYER_STATE" Collapsed="true">
+    <Position X="18.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAIAACAAAAAABAAAAAAAAAAACAAAAAAQAA=</HashCode>
+      <FileName>PlayerFSM.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="E_PLAYER_EVENT" Collapsed="true">
+    <Position X="16.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACABAAAAAAAAAAAAAAIAAAAAAAAAAAAAgAIAAAAA=</HashCode>
+      <FileName>PlayerFSM.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
